@@ -1,0 +1,6 @@
+#Environment
+NODE_ENV=
+PORT=
+
+#OpenAI Key
+SECRET_KEY=
